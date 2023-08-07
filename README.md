@@ -3,7 +3,7 @@ Mi experiencia como Full Stack Developer se basa en el desarrollo individual de 
 
 🔭 Actualmente estoy trabajando en estos 2 proyectos: <a href="https://github.com/LucasRibotta/Project-Parcels">Parcels</a> y <a href="https://github.com/Aldinti/PI">Countries</a>
 
-🌱 Estoy aprendiendo y afianzando conocimientos en Typescript, Next.js, Redux.js y cursando Inglés para certificarme en el nivel B2
+🌱 Estoy aprendiendo y afianzando conocimientos en Typescript, Next.js, Redux.js y el idioma Inglés para certificarme en el nivel C1
 
 👨‍💻 Además, soy Ingeniero de Sistemas de profesión y tengo experiencia como Administrador IT y Auditor SGI ISO 27001. He gestionado redes, servidores, sistemas operativos, seguridad informática y bases de datos en diferentes instituciones educativas. He realizado auditorías internas y externas para verificar el cumplimiento de la norma ISO 27001 sobre seguridad de la información.
 
