@@ -1,9 +1,9 @@
 ### Hi there 👋
-Mi experiencia como Full Stack Developer se basa en el desarrollo individual de una SPA sobre los países del mundo y una e-commerce para venta de parcelas, este último con un grupo de 8 personas incluyéndome, utilizando tecnologías como JavaScript, TypeScript, ReactJS, NextJS, Redux, NodeJS, Express, SQL, Postgres y MongoDB, además, participé en todo el ciclo de vida del desarrollo, desde el análisis de requisitos hasta el despliegue y la prueba, colaborando con otros desarrolladores y clientes para garantizar la calidad y la satisfacción del producto.
+Mi experiencia como Full Stack Developer se basa en el desarrollo individual de una SPA sobre una herramienta integral para el manejo de unidades de tiempo que incluye una potente lógica en Python y una **nueva interfaz gráfica (GUI)** moderna con persistencia de datos, utilizando tecnologías como JavaScript, HTML y CSS, además, participé en todo el ciclo de vida del desarrollo, desde el análisis de requisitos hasta el despliegue y la prueba, para garantizar la calidad y la satisfacción del producto.
 
-🔭 Actualmente estoy trabajando en estos 2 proyectos: <a href="https://github.com/LucasRibotta/Project-Parcels">Parcels</a> y <a href="https://github.com/Aldinti/PI">Countries</a>
+🔭 Actualmente estoy trabajando en estos proyectos: <a href="https://github.com/Aldinti/file_compare">Comparar Archivos</a> y <a href="https://github.com/Aldinti/AIparaTodos">Propuesta de Democratización de la IA</a>
 
-🌱 Estoy aprendiendo y afianzando conocimientos en Typescript, Next.js, Redux.js y el idioma Inglés para certificarme en el nivel C1
+🌱 Estoy cursando la Maestría en Análisis y Visualización de Datos MAsivos, además, aprendiendo y afianzando conocimientos en Análisis de Datos con Power BI.
 
 👨‍💻 Además, soy Ingeniero de Sistemas de profesión y tengo experiencia como Administrador IT y Auditor SGI ISO 27001. He gestionado redes, servidores, sistemas operativos, seguridad informática y bases de datos en diferentes instituciones educativas. He realizado auditorías internas y externas para verificar el cumplimiento de la norma ISO 27001 sobre seguridad de la información.
 
